@@ -1,0 +1,26 @@
+{
+  "name": "mern.portfolio",
+  "version": "1.0.0",
+  "description": "portfolio app",
+  "license": "ISC",
+  "author": "Shristi",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "framer-motion": "^12.38.0",
+    "nodemailer": "^8.0.7",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^0.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
